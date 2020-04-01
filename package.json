@@ -1,0 +1,26 @@
+{
+  "name": "@nhi/eslint-config",
+  "version": "0.0.4",
+  "description": "Shareable ESLint config for React/Node/TypeScript projects by NHI",
+  "main": "index.js",
+  "author": "Balazs Orban <balazs@nhi.no>",
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "nhi",
+    "react",
+    "node",
+    "typescript"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.26.0",
+    "@typescript-eslint/parser": "^2.26.0",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 6"
+  }
+}
