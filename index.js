@@ -55,6 +55,7 @@ module.exports = {
     "object-curly-spacing": [
       "error",
       "always"
-    ]
+    ],
+    "react/prop-types": "off"
   }
 }
