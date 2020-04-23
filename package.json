@@ -1,6 +1,6 @@
 {
   "name": "@nhi/eslint-config",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Shareable ESLint config for React/Node/TypeScript projects by NHI",
   "main": "index.js",
   "author": "Balazs Orban <balazs@nhi.no>",
