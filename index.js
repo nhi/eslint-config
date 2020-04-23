@@ -57,6 +57,6 @@ module.exports = {
       "always"
     ],
     "react/prop-types": "off",
-    "comma-dangle": ["error", "only-multiline"]
+    "comma-dangle": ["error", "always-multiline"]
   }
 }
