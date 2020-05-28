@@ -5,6 +5,7 @@ module.exports = {
     "node": true
   },
   "extends": [
+    "eslint:recommended",
     "plugin:@typescript-eslint/eslint-recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:react/recommended",
@@ -28,6 +29,7 @@ module.exports = {
     "sourceType": "module"
   },
   "rules": {
+    "@typescript-eslint/no-unused-vars-experimental": "error",
     "indent": [
       "error",
       2 
